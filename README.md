@@ -1,4 +1,4 @@
-# The manual for <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1566-3">SeqCNV</a>.
+# This is the manual for <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1566-3">SeqCNV</a>.
 
 ## Download SeqCNV tool
 
